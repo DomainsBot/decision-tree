@@ -28,7 +28,7 @@ setup(
     author_email='steven@domainsbot.com',
     url='www.domainsbot.com',
     packages=[
-        'decision_etl',
+        'decision',
     ],
     scripts=[],
     data_files=[],
